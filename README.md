@@ -1,2 +1,46 @@
-# zircon.skeleton.scala
-Skeleton project to be used for developing Scala games with Zircon.
+# Zircon Scala Skeleton Project
+
+This is a skeleton project for Zircon users that can be used to get started with Zircon.
+
+## Getting started
+
+This project works on all platforms but there are some prerequisites that must be installed
+before you can start coding.
+
+1. *Git.* (optional)
+    Git is a version control system. If you use GitHub you are already familiar with it.
+    You don't need extensive Git knowledge to work with this project, but you need to install Git
+    on your system if you want to clone / fork this project. You can get it [here](https://git-scm.com/).
+    Alternatively you can download the zip / tarball from the [Releases page](https://github.com/Hexworks/zircon.skeleton.kotlin/releases).
+2. *Java*
+    This project uses Kotlin, so you must install a Java *JDK* to get started. We suggest [OpenJDK](https://openjdk.java.net/install/)
+    but any other JDK will do. Java 8 or above is recommended.
+
+That's all!
+
+## Setting up
+
+In order to set up a local dev environment on your computer you need to follow these steps:
+
+## Check the project out. (optional)
+
+If you want to use Git to clone the project you need to navigate to a folder where you want
+to check the project out in a terminal and type the following command:
+```bash
+git clone https://github.com/Hexworks/zircon.skeleton.scala.git
+```
+Alternatively you can just download and extract the latest release form the [Releases page](https://github.com/Hexworks/zircon.skeleton.scala/releases).
+
+## Import the project to your IDE.
+
+TODO
+
+## Development resources
+
+- To get started with Zircon you can check the Zircon Project Page on our website [here](https://hexworks.org/projects/zircon/)
+- If you get stuck with Zircon feel free to come up to our [Discord channel](https://discordapp.com/invite/vSNgvBh)
+  where you can ask us and other Zircon users
+- The [Roguelikedev Subreddit](https://www.reddit.com/r/roguelikedev/) is also a good source of
+  information
+- If nothing helps or if you think that there is a bug in this project feel free to open
+  a new issue [here](https://github.com/Hexworks/zircon.skeleton.scala/issues/new).
