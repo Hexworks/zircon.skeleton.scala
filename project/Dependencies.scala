@@ -3,7 +3,7 @@ import sbt._
 object Dependencies {
 
   object Ver {
-    val scalatest = "3.2.10"
+    val scalatest = "3.2.11"
     val zircon    = "2021.1.0-RELEASE"
   }
 

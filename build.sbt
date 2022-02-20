@@ -4,8 +4,8 @@ name := "zircon.skeleton.scala"
 
 ThisBuild / organization := "org.hexworks.zircon"
 ThisBuild / organizationName := "Hexworks"
-ThisBuild / version := "1.0.0"
-ThisBuild / scalaVersion := "2.13.7"
+ThisBuild / version := "1.0.1"
+ThisBuild / scalaVersion := "2.13.8"
 
 ThisBuild / scalafixDependencies += Plugin.organizeImports
 ThisBuild / semanticdbEnabled := true
